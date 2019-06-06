@@ -3,4 +3,6 @@ git is free!
 git is ok!
 git has index!
 
-//todo 
+//todo
+
+//this is from fix-02
